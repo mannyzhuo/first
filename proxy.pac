@@ -837,11 +837,9 @@ var domains = {
   "ghut.org": 1, 
   "giga-web.jp": 1, 
   "giganews.com": 1, 
-  "gigporno.ru": 1, 
+  "gigporno.ru": 1,  
   "gimpshop.com": 1, 
-  "girlbanker.com": 1, 
-  "git-scm.com": 1, 
-  "github.com": 1, 
+  "girlbanker.com": 1,  
   "givemesomethingtoread.com": 1, 
   "glennhilton.com": 1, 
   "globaljihad.net": 1, 
@@ -2610,13 +2608,6 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
-    if (host == "www.so.com") {
-        return "PROXY 360.itzmx.com:80";
-    }
-    if(host == 'github.com') {
-        return direct;
-    }
-
     var suffix;
     var pos = host.lastIndexOf('.');
     while(1) {

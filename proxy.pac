@@ -3,6 +3,11 @@
 var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
+  // 20180915新增
+  "apkmirror.com":1,
+  "pin-cong.com":1,
+  "medium.com":1,
+  
   "pinterest.com": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
@@ -2608,6 +2613,9 @@ var hasOwnProperty = Object.hasOwnProperty;
 function FindProxyForURL(url, host) {
     if (host == "www.so.com") {
         return "PROXY 360.itzmx.com:80";
+    }
+    if(host == 'github.com') {
+        return direct;
     }
 
     var suffix;

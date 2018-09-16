@@ -773,7 +773,6 @@ var domains = {
   "frontlinedefenders.org": 1, 
   "fscked.org": 1, 
   "fsurf.com": 1, 
-  "ftchinese.com": 1, 
   "fuckcnnic.net": 1, 
   "fuckgfw.com": 1, 
   "fuckgfw.org": 1, 

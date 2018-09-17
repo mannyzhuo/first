@@ -9,6 +9,7 @@ var domains = {
   "medium.com":1,
   "apkpure.com":1,
   "npmjs.org":1,
+  "mozilla.org":1,
   "learnrxjs.io":1,
   
   "pinterest.com": 1,

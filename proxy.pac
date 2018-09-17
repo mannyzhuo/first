@@ -8,6 +8,7 @@ var domains = {
   "pin-cong.com":1,
   "medium.com":1,
   "apkpure.com":1,
+  "npmjs.org":1,
   
   "pinterest.com": 1,
   "download.kolor.com": 1,

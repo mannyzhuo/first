@@ -11,6 +11,7 @@ var domains = {
   "npmjs.org":1,
   "mozilla.org":1,
   "learnrxjs.io":1,
+  "quora.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

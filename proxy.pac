@@ -16,6 +16,7 @@ var domains = {
   "pinimg.com":1,
   "webflow.com":1,
   "googleblog.com":1,
+  "stackblitz.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

@@ -2616,6 +2616,11 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
+    
+    if(host == 'gist.github.com'){
+        return proxy;
+    }
+  
     var suffix;
     var pos = host.lastIndexOf('.');
     while(1) {

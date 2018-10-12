@@ -19,6 +19,7 @@ var domains = {
   "stackblitz.com":1,
   "doub.io":1,
   "mailchimp.com":1,
+  "adactio.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

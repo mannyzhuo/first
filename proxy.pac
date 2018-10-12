@@ -18,6 +18,7 @@ var domains = {
   "googleblog.com":1,
   "stackblitz.com":1,
   "doub.io":1,
+  "mailchimp.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

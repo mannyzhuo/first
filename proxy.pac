@@ -21,6 +21,7 @@ var domains = {
   "mailchimp.com":1,
   "adactio.com":1,
   "dapp.com":1,
+  "list-manage.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

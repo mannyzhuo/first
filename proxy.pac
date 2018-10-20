@@ -22,6 +22,7 @@ var domains = {
   "adactio.com":1,
   "dapp.com":1,
   "list-manage.com":1,
+  "firefox.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

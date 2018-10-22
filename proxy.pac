@@ -24,6 +24,7 @@ var domains = {
   "list-manage.com":1,
   "firefox.com":1,
   "mozilla.net":1,
+  "reddit.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

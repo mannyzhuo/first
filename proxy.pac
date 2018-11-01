@@ -2628,7 +2628,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     
-    if(host == 'gist.github.com'){
+    if(host == 'gist.github.com'||host == 'dl.google.com' ){
         return proxy;
     }
   

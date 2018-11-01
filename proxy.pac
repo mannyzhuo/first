@@ -27,6 +27,7 @@ var domains = {
   "reddit.com":1,
   "cloudfront.net":1,
   "wenzhao.ca":1,
+  "www.v2ray.com":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

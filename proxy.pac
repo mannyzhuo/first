@@ -28,6 +28,7 @@ var domains = {
   "cloudfront.net":1,
   "wenzhao.ca":1,
   "www.v2ray.com":1,
+  "mohu.club":1,
   
   // 从别的复制过来的
   "pinterest.com": 1,

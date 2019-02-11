@@ -4,6 +4,8 @@ var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   // 20180915新增
+  "www.googletagmanager.com":1,
+  "storage.googleapis.com":1,
   "www.geeksforgeeks.org":1,
   "apkmirror.com":1,
   "pin-cong.com":1,

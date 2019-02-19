@@ -4,6 +4,7 @@ var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   // 20180915新增
+  "dartpad.dartlang.org":1,
   "blog.khophi.co":1,
   "www.googletagmanager.com":1,
   "storage.googleapis.com":1,

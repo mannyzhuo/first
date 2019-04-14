@@ -4,6 +4,7 @@ var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   // 20180915新增
+  "www.fellatiojapan.com":1,
   "imgur.com":1,
   "www.tomshardware.com":1,
   "www.laptopmag.com":1,

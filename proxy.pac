@@ -3,7 +3,7 @@
 var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
-  // 20180915新增
+  "web.dev":1,
   "lithium.com":1,
   "imgur.com":1,
   "www.tomshardware.com":1,

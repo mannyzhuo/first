@@ -3,6 +3,7 @@
 var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
+  "www.psiphon3.com":1,
   "web.dev":1,
   "lithium.com":1,
   "imgur.com":1,

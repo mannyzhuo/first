@@ -3,6 +3,7 @@
 var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
+  "javascriptweekly.com":1,
   "www.psiphon3.com":1,
   "web.dev":1,
   "lithium.com":1,

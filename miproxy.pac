@@ -4,6 +4,7 @@ var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   "pincong.rocks":1,
+  "googlevideo.com":1
 };
 
 var direct = 'DIRECT;';

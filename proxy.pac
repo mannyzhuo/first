@@ -22,7 +22,6 @@ var domains = {
   "medium.com":1,
   "apkpure.com":1,
   "npmjs.org":1,
-  "mozilla.org":1,
   "learnrxjs.io":1,
   "quora.com":1,
   "www.w3schools.com":1,

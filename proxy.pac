@@ -34,8 +34,6 @@ var domains = {
   "adactio.com":1,
   "dapp.com":1,
   "list-manage.com":1,
-  "firefox.com":1,
-  "mozilla.net":1,
   "reddit.com":1,
   "cloudfront.net":1,
   "wenzhao.ca":1,

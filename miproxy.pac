@@ -4,8 +4,7 @@ var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   "lithium.com":1,
-   "www.soundofhope.org":1,
-  "media.soundofhope.org",1,
+   "soundofhope.org":1,
   "bit.ly":1
 };
 

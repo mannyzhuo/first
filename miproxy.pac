@@ -6,7 +6,8 @@ var domains = {
   "lithium.com":1,
    "soundofhope.org":1,
   "i.epochtimes.com":1,
-  "bit.ly":1
+  "bit.ly":1,
+  "pincong.rocks":1
 };
 
 var direct = 'DIRECT;';

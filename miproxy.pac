@@ -7,7 +7,8 @@ var domains = {
    "soundofhope.org":1,
   "i.epochtimes.com":1,
   "bit.ly":1,
-  "pincong.rocks":1
+  "pincong.rocks":1,
+  "wenzhao.ca":1
 };
 
 var direct = 'DIRECT;';

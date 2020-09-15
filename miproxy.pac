@@ -8,7 +8,8 @@ var domains = {
   "i.epochtimes.com":1,
   "bit.ly":1,
   "pincong.rocks":1,
-  "wenzhao.ca":1
+  "wenzhao.ca":1,
+  "dubox.com":1
 };
 
 var direct = 'DIRECT;';

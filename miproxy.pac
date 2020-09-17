@@ -9,7 +9,8 @@ var domains = {
   "bit.ly":1,
   "pincong.rocks":1,
   "wenzhao.ca":1,
-  "dubox.com":1
+  "dubox.com":1,
+  "2049post.wordpress.com":1
 };
 
 var direct = 'DIRECT;';

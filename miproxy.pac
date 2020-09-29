@@ -12,7 +12,8 @@ var domains = {
   "dubox.com":1,
   "2049post.wordpress.com":1,
   "bbc.com":1,
-  "bbci.co.uk":1
+  "bbci.co.uk":1,
+  "america.gov":1
 };
 
 var direct = 'DIRECT;';

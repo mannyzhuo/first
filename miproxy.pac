@@ -13,7 +13,8 @@ var domains = {
   "2049post.wordpress.com":1,
   "bbc.com":1,
   "bbci.co.uk":1,
-  "america.gov":1
+  "america.gov":1,
+  "ntdtv.com":1
 };
 
 var direct = 'DIRECT;';

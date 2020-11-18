@@ -17,7 +17,8 @@ var domains = {
   "ntdtv.com":1,
   "bayvoice.net":1,
   "post852.com":1,
-  "theepochtimes.com":1
+  "theepochtimes.com":1,
+  "i.imgur.com":1
 };
 
 var direct = 'DIRECT;';

@@ -18,7 +18,8 @@ var domains = {
   "bayvoice.net":1,
   "post852.com":1,
   "theepochtimes.com":1,
-  "i.imgur.com":1
+  "i.imgur.com":1,
+  "pbs.twimg.com":1
 };
 
 var direct = 'DIRECT;';

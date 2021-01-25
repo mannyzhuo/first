@@ -22,7 +22,9 @@ var domains = {
   "pbs.twimg.com":1,
   "binance.com":1,
   "kknews.cc":1,
-  "cdn.lbryplayer.xyz":1
+  "cdn.lbryplayer.xyz":1,
+  "www.tiktok.com":1,
+  "t.tiktok.com":1
 };
 
 var direct = 'DIRECT;';
